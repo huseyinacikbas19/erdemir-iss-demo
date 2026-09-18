@@ -1,11 +1,11 @@
 export const screens=[
- ['home','Güne bakış','Çalışan','home',''],
+ ['home','Ana sayfa','Çalışan','home',''],
  ['login','Giriş','Çalışan','lock','login'],
  ['menu','Günün menüsü','Çalışan','bowl','menu/cafeteria'],
  ['menu-weekly','Haftalık menü','Çalışan','calendar','menu/[slug]'],
  ['menu-classic','Klasik sefer tası','Çalışan','tiffin','menu/corolla-club'],
  ['menu-light','Dengeli sefer tası','Çalışan','leaf','menu/japanese'],
- ['reserve','Sefer tası ayır','Çalışan','plus','reservations'],
+ ['reserve','Sipariş oluştur','Çalışan','plus','reservations'],
  ['reserve-courier','Kurye ile teslimat','Çalışan','truck','reservation/[slug]'],
  ['reserve-shift','Vardiya teslimatı','Çalışan','clock','reservation/corolla-club'],
  ['reserve-special','Özel öğün teslimatı','Çalışan','leaf','reservation/japanese'],
